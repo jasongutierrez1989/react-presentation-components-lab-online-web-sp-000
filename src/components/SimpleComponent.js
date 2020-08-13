@@ -11,5 +11,5 @@ export default class SimpleComponent extends Component {
   render() {
     <div this.mood></div>
   }
-  
+
 }
