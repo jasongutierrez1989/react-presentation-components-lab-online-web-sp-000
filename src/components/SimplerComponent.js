@@ -1,5 +1,5 @@
 const SimplerComponent = (props) => {
   render() {
-    <div>I am just happy</div>
+    <div onclick={props.handleClick}>I am just happy</div>
   }
 }
